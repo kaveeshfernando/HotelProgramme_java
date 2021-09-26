@@ -1,0 +1,40 @@
+Name and Room number is: kaveesh at: 0
+First name is: kaveesh
+ Surname is: fernando
+ Credit card number is: 1234
+Number of guests is: 2
+Name and Room number is: empty at: 1
+First name is: empty
+ Surname is: empty
+ Credit card number is: 0
+Number of guests is: 0
+Name and Room number is: akila at: 2
+First name is: akila
+ Surname is: srikantha
+ Credit card number is: 5678
+Number of guests is: 4
+Name and Room number is: empty at: 3
+First name is: empty
+ Surname is: empty
+ Credit card number is: 0
+Number of guests is: 0
+Name and Room number is: empty at: 4
+First name is: empty
+ Surname is: empty
+ Credit card number is: 0
+Number of guests is: 0
+Name and Room number is: empty at: 5
+First name is: empty
+ Surname is: empty
+ Credit card number is: 0
+Number of guests is: 0
+Name and Room number is: empty at: 6
+First name is: empty
+ Surname is: empty
+ Credit card number is: 0
+Number of guests is: 0
+Name and Room number is: empty at: 7
+First name is: empty
+ Surname is: empty
+ Credit card number is: 0
+Number of guests is: 0

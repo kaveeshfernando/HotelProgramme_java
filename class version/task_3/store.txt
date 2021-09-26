@@ -1,0 +1,40 @@
+Name and Room number is: empty at: 0
+First name is: empty
+Sur name is: empty
+Credit card number is: 0
+Number of guests is: 0
+Name and Room number is: kav at: 1
+First name is: hj
+Sur name is: hj
+Credit card number is: 123
+Number of guests is: 123
+Name and Room number is: empty at: 2
+First name is: empty
+Sur name is: empty
+Credit card number is: 0
+Number of guests is: 0
+Name and Room number is: empty at: 3
+First name is: empty
+Sur name is: empty
+Credit card number is: 0
+Number of guests is: 0
+Name and Room number is: empty at: 4
+First name is: empty
+Sur name is: empty
+Credit card number is: 0
+Number of guests is: 0
+Name and Room number is: empty at: 5
+First name is: empty
+Sur name is: empty
+Credit card number is: 0
+Number of guests is: 0
+Name and Room number is: empty at: 6
+First name is: empty
+Sur name is: empty
+Credit card number is: 0
+Number of guests is: 0
+Name and Room number is: empty at: 7
+First name is: empty
+Sur name is: empty
+Credit card number is: 0
+Number of guests is: 0
